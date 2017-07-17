@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Kymyzek/Logger"
+        }
+    ],
+    "require": {
+        "vendor/Kymyzek/Logger": "dev-master"
+    }
+}
